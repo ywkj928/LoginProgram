@@ -7,8 +7,7 @@ import com.login.controller.MemberList;
 import com.login.register.MemberRegister;
 
 public class Main {
-
-	private MemberList MemderList;
+    private MemberList MemderList;
     private MemberFix  Memberfix;
     private MemberDelete MemderDelete;
     private static Scanner scanner;
